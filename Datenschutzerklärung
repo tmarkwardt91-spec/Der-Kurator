@@ -1,0 +1,191 @@
+Datenschutzerklärung – Der Kurator
+
+Stand: 22. Oktober 2026
+
+1. Verantwortlicher
+
+Verantwortlich für die Verarbeitung personenbezogener Daten im Zusammenhang mit dem Discord-Bot „Der Kurator“ ist:
+
+Name: [Thomas Biener]
+Anschrift: [Röhrstraße 15 59759 Arnsberg]
+E-Mail: [tmarkwardt91@gmail.com]
+
+Im Folgenden wird diese Person als „Betreiber“ bezeichnet.
+
+2. Allgemeine Hinweise zur Datenverarbeitung
+
+Der Schutz personenbezogener Daten ist uns wichtig. Wir verarbeiten personenbezogene Daten ausschließlich im Rahmen der geltenden gesetzlichen Vorschriften, insbesondere der Datenschutz-Grundverordnung (DSGVO), und nur für festgelegte, rechtmäßige Zwecke.
+
+Diese Datenschutzerklärung informiert darüber, welche personenbezogenen Daten bei der Nutzung des Discord-Bots „Der Kurator“ verarbeitet werden können, zu welchen Zwecken dies geschieht und welche Rechte betroffene Personen haben.
+
+Der konkrete Umfang der Datenverarbeitung hängt von den aktivierten Funktionen, den Berechtigungen des Bots und den tatsächlich implementierten technischen Abläufen ab.
+
+3. Discord als Plattform
+
+Der Kurator wird über die Kommunikationsplattform Discord genutzt.
+
+Bei der Verwendung von Discord werden Daten auch durch Discord selbst verarbeitet. Hierfür gelten die Datenschutzbestimmungen von Discord.
+
+Datenschutzerklärung von Discord:
+https://discord.com/privacy
+
+Der Betreiber des Bots hat keinen vollständigen Einfluss auf die eigenständige Datenverarbeitung durch Discord.
+
+4. Welche Daten können verarbeitet werden?
+
+Abhängig von den aktivierten Funktionen können folgende Daten verarbeitet werden:
+
+4.1 Discord-Nutzerdaten
+
+- Discord-Nutzer-ID
+- Discord-Server-ID
+- Benutzername und gegebenenfalls Anzeigename
+- Rollen und Berechtigungen
+- Zeitpunkte der Nutzung bestimmter Bot-Funktionen
+
+Diese Daten können erforderlich sein, um Nutzer zuzuordnen, Befehle auszuführen und Funktionen bereitzustellen.
+
+4.2 Nachrichten und Befehle
+
+Wenn der Bot Nachrichteninhalte oder Befehle auswertet, können insbesondere folgende Daten verarbeitet werden:
+
+- Eingegebene Bot-Befehle
+- Nachrichteninhalte, soweit für eine Funktion erforderlich
+- Angaben, die Nutzer freiwillig in Befehlen oder Eingabefeldern übermitteln
+- Technische Informationen zur Ausführung eines Befehls
+
+Ob vollständige Nachrichten gespeichert werden, hängt von der tatsächlichen technischen Umsetzung ab.
+
+4.3 Moderationsdaten
+
+Wenn Moderationsfunktionen aktiviert sind, können beispielsweise Verwarnungen, Sperren, Zeitpunkte von Maßnahmen und zugehörige Nutzer-IDs verarbeitet werden.
+
+Diese Daten dienen der Durchführung und gegebenenfalls der nachvollziehbaren Dokumentation von Moderationsmaßnahmen.
+
+4.4 Technische Protokolle
+
+Zur Fehleranalyse, Sicherheit und Wartung können technische Protokolle anfallen. Diese können beispielsweise Zeitpunkte, Fehlermeldungen und Angaben zur ausgeführten Funktion enthalten.
+
+Es werden nur solche Protokolle erhoben und gespeichert, die tatsächlich anfallen und für einen festgelegten Zweck erforderlich sind.
+
+5. Zwecke und Rechtsgrundlagen
+
+Personenbezogene Daten werden nur verarbeitet, soweit hierfür eine Rechtsgrundlage besteht.
+
+Je nach konkreter Funktion kommen insbesondere folgende Rechtsgrundlagen in Betracht:
+
+- Art. 6 Abs. 1 lit. b DSGVO: Verarbeitung, soweit sie zur Erfüllung eines Vertrags oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist.
+- Art. 6 Abs. 1 lit. f DSGVO: Verarbeitung auf Grundlage berechtigter Interessen, beispielsweise zur Absicherung des Bots, zur Verhinderung von Missbrauch oder zur notwendigen Fehleranalyse, sofern die Interessen und Grundrechte der betroffenen Personen nicht überwiegen.
+- Art. 6 Abs. 1 lit. a DSGVO: Einwilligung, wenn eine Verarbeitung tatsächlich auf einer wirksamen Einwilligung beruht.
+- Art. 6 Abs. 1 lit. c DSGVO: Verarbeitung, soweit eine konkrete gesetzliche Verpflichtung besteht.
+
+Welche Rechtsgrundlage für eine einzelne Funktion gilt, hängt vom jeweiligen Zweck und den tatsächlichen Umständen ab.
+
+6. KI-Funktionen und externe Anbieter
+
+Sofern Der Kurator Funktionen mit künstlicher Intelligenz anbietet, können eingegebene Nachrichten oder Fragen an einen externen KI-Dienst übermittelt werden.
+
+Vor der Nutzung solcher Funktionen muss festgelegt und transparent erläutert werden:
+
+- Welcher Anbieter die KI bereitstellt
+- Welche Eingaben übermittelt werden
+- Zu welchem Zweck die Übermittlung erfolgt
+- Welche Speicher- und Aufbewahrungsfristen gelten
+- Ob Daten außerhalb des Europäischen Wirtschaftsraums verarbeitet werden
+
+Es sollten keine sensiblen personenbezogenen Daten an externe KI-Dienste übermittelt werden, sofern hierfür keine geeignete Rechtsgrundlage und keine erforderlichen Schutzmaßnahmen vorliegen.
+
+Wenn keine KI-Funktion vorhanden ist oder keine Daten an externe KI-Anbieter übermittelt werden, ist dieser Abschnitt entsprechend anzupassen.
+
+7. Speicherung und Löschung
+
+Personenbezogene Daten werden nur so lange gespeichert, wie dies für den jeweiligen Zweck erforderlich ist oder gesetzliche Aufbewahrungspflichten bestehen.
+
+Nach Wegfall des Speicherzwecks werden die betreffenden Daten gelöscht, sofern keine gesetzlichen Gründe für eine weitere Speicherung vorliegen.
+
+Vor Veröffentlichung sind die tatsächlichen Speicherfristen für Moderationsdaten, Protokolle, Einstellungen und gegebenenfalls KI-Anfragen festzulegen und hier einzutragen:
+
+- Moderationsdaten: [Frist eintragen]
+- Technische Protokolle: [Frist eintragen]
+- Gespeicherte Einstellungen: [Frist eintragen]
+- Sonstige gespeicherte Daten: [Frist eintragen]
+
+Wenn Daten nicht dauerhaft gespeichert werden, sollte dies ausdrücklich und zutreffend beschrieben werden.
+
+8. Weitergabe von Daten
+
+Personenbezogene Daten werden nicht ohne Rechtsgrundlage an Dritte weitergegeben.
+
+Eine Übermittlung kann erforderlich sein, wenn:
+
+- ein technischer Hosting- oder Infrastrukturanbieter für den Betrieb eingesetzt wird,
+- ein externer KI-Dienst für eine aktivierte Funktion verwendet wird,
+- eine gesetzliche Verpflichtung zur Übermittlung besteht oder
+- eine andere rechtmäßige Grundlage für die Weitergabe vorliegt.
+
+Mit Dienstleistern, die personenbezogene Daten im Auftrag des Betreibers verarbeiten, werden erforderlichenfalls die gesetzlich vorgeschriebenen Vereinbarungen zur Auftragsverarbeitung geschlossen.
+
+9. Datenübermittlung in Drittländer
+
+Werden personenbezogene Daten außerhalb des Europäischen Wirtschaftsraums verarbeitet, müssen die Voraussetzungen der Art. 44 ff. DSGVO eingehalten werden.
+
+Abhängig vom jeweiligen Anbieter und Verarbeitungsvorgang können beispielsweise ein Angemessenheitsbeschluss oder geeignete Garantien erforderlich sein.
+
+Ob eine solche Übermittlung stattfindet, muss anhand der tatsächlich eingesetzten Dienstleister geprüft werden.
+
+10. Rechte betroffener Personen
+
+Betroffene Personen haben im Rahmen der gesetzlichen Voraussetzungen folgende Rechte:
+
+- Auskunft (Art. 15 DSGVO): Auskunft über die verarbeiteten personenbezogenen Daten.
+- Berichtigung (Art. 16 DSGVO): Berichtigung unrichtiger Daten.
+- Löschung (Art. 17 DSGVO): Löschung personenbezogener Daten, soweit die gesetzlichen Voraussetzungen vorliegen.
+- Einschränkung (Art. 18 DSGVO): Einschränkung der Verarbeitung in den gesetzlich vorgesehenen Fällen.
+- Datenübertragbarkeit (Art. 20 DSGVO): Erhalt beziehungsweise Übertragung bestimmter bereitgestellter Daten, soweit die Voraussetzungen erfüllt sind.
+- Widerspruch (Art. 21 DSGVO): Widerspruch gegen bestimmte Verarbeitungen, insbesondere solche auf Grundlage berechtigter Interessen.
+- Widerruf einer Einwilligung (Art. 7 Abs. 3 DSGVO): Eine erteilte Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden.
+
+Zur Ausübung dieser Rechte kann der Betreiber unter der oben angegebenen E-Mail-Adresse kontaktiert werden.
+
+Die Rechtmäßigkeit einer bereits erfolgten Verarbeitung bis zum Widerruf bleibt unberührt.
+
+11. Beschwerderecht bei einer Aufsichtsbehörde
+
+Betroffene Personen haben gemäß Art. 77 DSGVO das Recht, sich bei einer Datenschutzaufsichtsbehörde zu beschweren, insbesondere bei der Behörde ihres gewöhnlichen Aufenthaltsorts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen Datenschutzverstoßes.
+
+Wenn der Betreiber in Nordrhein-Westfalen ansässig ist, kann – je nach Zuständigkeit – die Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen kontaktiert werden:
+
+https://www.ldi.nrw.de/
+
+12. Sicherheit der Daten
+
+Der Betreiber trifft angemessene technische und organisatorische Maßnahmen, um personenbezogene Daten vor Verlust, unberechtigtem Zugriff, Veränderung oder unzulässiger Offenlegung zu schützen.
+
+Dazu können beispielsweise eine sichere Verwaltung von Zugangsdaten, beschränkte Zugriffsrechte und angemessene Sicherheitsmaßnahmen für die Hosting-Umgebung gehören.
+
+Ein absoluter Schutz vor allen denkbaren Sicherheitsrisiken kann nicht gewährleistet werden.
+
+13. Daten von Minderjährigen
+
+Discord und der Bot können auch von jüngeren Personen genutzt werden. Die Verarbeitung personenbezogener Daten Minderjähriger richtet sich nach den jeweils geltenden gesetzlichen Vorschriften.
+
+Sofern eine Verarbeitung auf einer Einwilligung beruht, sind die hierfür geltenden besonderen Anforderungen zu beachten.
+
+Nutzer sollten keine unnötigen personenbezogenen Daten von sich oder anderen Personen in den Bot eingeben.
+
+14. Änderungen dieser Datenschutzerklärung
+
+Diese Datenschutzerklärung kann angepasst werden, wenn sich die Funktionen des Bots, die eingesetzten Dienstleister oder die gesetzlichen Anforderungen ändern.
+
+Die jeweils aktuelle Fassung wird unter der dafür vorgesehenen Internetadresse veröffentlicht.
+
+15. Kontakt zum Datenschutz
+
+Fragen zur Verarbeitung personenbezogener Daten sowie Anfragen zur Ausübung von Datenschutzrechten können an folgende Kontaktadresse gerichtet werden:
+
+Betreiber: [Thomas Biener]
+E-Mail: [tmarkwardt91@gmail.com]
+
+Datenschutzerklärung für den Discord-Bot „Der Kurator“
+
+URL: [Nach Veröffentlichung die tatsächliche URL eintragen]
